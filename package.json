@@ -1,0 +1,14 @@
+{
+  "name": "datu",
+  "version": "1.0.5",
+  "description": "firebase msgr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Feenstra",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.15.5"
+  }
+}

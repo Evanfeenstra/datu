@@ -9,6 +9,6 @@
   "author": "Evan Feenstra",
   "license": "ISC",
   "dependencies": {
-    "firebase": "^7.15.5"
+    "firebase": "^10.0.0"
   }
 }
